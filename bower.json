@@ -1,0 +1,21 @@
+{
+  "name": "Admin-Flatlab",
+  "homepage": "https://github.com/diepnguyen1905/Admin-FlatLab",
+  "description": "Template Admin",
+  "main": "all",
+  "keywords": [
+    "Admin-Flatlab"
+  ],
+  "authors": [
+    "Mr.Diepnv"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
